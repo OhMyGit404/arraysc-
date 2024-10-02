@@ -1,0 +1,8 @@
+/Users/allannguginganga./CLionProjects/arrays/cmake-build-debug/CMakeFiles/arrays.dir
+/Users/allannguginganga./CLionProjects/arrays/cmake-build-debug/CMakeFiles/arrays_and_functions.dir
+/Users/allannguginganga./CLionProjects/arrays/cmake-build-debug/CMakeFiles/loops.dir
+/Users/allannguginganga./CLionProjects/arrays/cmake-build-debug/CMakeFiles/que1.dir
+/Users/allannguginganga./CLionProjects/arrays/cmake-build-debug/CMakeFiles/assignment.dir
+/Users/allannguginganga./CLionProjects/arrays/cmake-build-debug/CMakeFiles/trials.dir
+/Users/allannguginganga./CLionProjects/arrays/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/allannguginganga./CLionProjects/arrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir
